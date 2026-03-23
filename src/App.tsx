@@ -678,10 +678,10 @@ const Footer = () => {
               Currently accepting new strategic partnerships and leadership roles.
             </p>
             <a 
-              href="mailto:hello@nikhannay.com" 
+              href="mailto:nikhannay@gmail.com" 
               className="inline-flex items-center gap-3 px-8 py-4 border border-accent text-accent rounded-full text-xl font-serif font-normal hover:bg-accent hover:text-white transition-all shadow-xl shadow-accent/10 active:scale-95"
             >
-              hello@nikhannay.com
+              nikhannay@gmail.com
               <ArrowRight className="w-6 h-6" />
             </a>
           </div>
