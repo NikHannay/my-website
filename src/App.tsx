@@ -237,7 +237,8 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-zinc-600 dark:text-zinc-400 max-w-3xl mx-auto mb-14 leading-relaxed font-light">
-            I help companies ship better products faster by aligning <span className="text-black dark:text-white font-normal">design, engineering and product strategy</span>. Applying 15+ years experience, including building AI-enabled products and scalable design systems.
+            I lead design at the intersection of <span className="text-black dark:text-white font-normal">product, systems, and AI
+  helping </span>companies scale from early-stage ideas to enterprise platforms.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 mb-8">
